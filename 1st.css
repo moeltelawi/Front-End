@@ -1,0 +1,69 @@
+.cotainer
+{
+    padding: 20px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgba(49, 47, 47, 0.411);
+    border-radius: 5px;
+}
+.JSimg 
+{
+   text-align: center;
+}
+.JSimg p span
+{
+    color:rgb(36, 37, 37)
+}
+
+.About
+{
+    background-color: #EEE;    width: 40%;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgba(49, 47, 47, 0.411);
+    
+}
+h3
+{
+    background-color: rgb(26, 24, 24);
+    color: cornsilk;
+    margin: 0px;
+    text-align: center;
+    
+}
+
+.Bla
+{
+    margin-top: 20px;
+    background-color: #EEE;    border-style: solid;
+    border-width: 1px;
+    border-color: rgba(49, 47, 47, 0.411);
+}
+.Bla div
+{
+    text-align: center;
+}
+.Bla div a
+{
+    display: block;
+}
+
+.Order
+{
+    margin-top: 20px;
+    background-color: #EEE;    border-style: solid;
+    border-width: 1px;
+    border-color: rgba(49, 47, 47, 0.411);
+}
+.Order form
+{
+    padding: 10px;
+    
+}
+
+#lab
+{
+    display: inline-block;
+    margin: 10px 10px;
+    
+}
